@@ -106,7 +106,7 @@ public class CoffeeShopSim {
      */
     public void run(String[] a) {
         //The number of cashiers is determined through command line arguments
-        int s = 2; //Integer.parseInt(a[0]);
+        int s = Integer.parseInt(a[0]);
         //Initializes the cashier variable
         int availCashiers = 0;
         //Initializes the customer ArrayList
