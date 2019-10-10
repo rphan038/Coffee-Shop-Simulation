@@ -5,5 +5,7 @@ to run experiments to help determine the optimal number of cashiers the coffee s
 profit.
 
 #Project Title: Coffe Shop Simulation
+
 #Date: 3/15/19
+
 #Authors: Richard Phan
