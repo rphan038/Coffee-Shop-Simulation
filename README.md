@@ -4,8 +4,8 @@ time for a customer who waits in line, maximum wait time of any customer, and th
 to run experiments to help determine the optimal number of cashiers the coffee shop owner should hire in order to maximize
 profit.
 
-#Project Title: Coffe Shop Simulation
+Project Title: Coffe Shop Simulation
 
-#Date: 3/15/19
+Date: 3/15/19
 
-#Authors: Richard Phan
+Authors: Richard Phan
